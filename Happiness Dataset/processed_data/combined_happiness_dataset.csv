@@ -1,0 +1,139 @@
+Country,Region,2015,2016,2017,2018,2019,2020
+Switzerland,Western Europe,1,2,4,5,6,3
+Iceland,Western Europe,2,3,3,4,4,4
+Denmark,Western Europe,3,1,2,3,2,2
+Norway,Western Europe,4,4,1,2,3,5
+Canada,North America,5,6,7,7,9,11
+Finland,Western Europe,6,5,5,1,1,1
+Netherlands,Western Europe,7,7,6,6,5,6
+Sweden,Western Europe,8,10,9,9,7,7
+New Zealand,Australia and New Zealand,9,8,8,8,8,8
+Australia,Australia and New Zealand,10,9,10,10,11,12
+Israel,Middle East and Northern Africa,11,11,11,19,13,14
+Costa Rica,Latin America and Caribbean,12,14,12,13,12,15
+Austria,Western Europe,13,12,13,12,10,9
+Mexico,Latin America and Caribbean,14,21,25,24,23,24
+United States,North America,15,13,14,18,19,18
+Brazil,Latin America and Caribbean,16,17,22,28,32,32
+Luxembourg,Western Europe,17,20,18,17,14,10
+Ireland,Western Europe,18,19,15,14,16,16
+Belgium,Western Europe,19,18,17,16,18,20
+United Arab Emirates,Middle East and Northern Africa,20,28,21,20,21,21
+United Kingdom,Western Europe,21,23,19,11,15,13
+Venezuela,Latin America and Caribbean,23,44,82,102,108,99
+Singapore,Southeastern Asia,24,22,26,34,34,31
+Panama,Latin America and Caribbean,25,25,30,27,31,36
+Germany,Western Europe,26,16,16,15,17,17
+Chile,Latin America and Caribbean,27,24,20,25,26,39
+France,Western Europe,29,32,31,23,24,23
+Argentina,Latin America and Caribbean,30,26,24,29,47,55
+Czech Republic,Central and Eastern Europe,31,27,23,21,20,19
+Uruguay,Latin America and Caribbean,32,29,28,31,33,26
+Colombia,Latin America and Caribbean,33,31,36,37,43,44
+Thailand,Southeastern Asia,34,33,32,46,52,54
+Saudi Arabia,Middle East and Northern Africa,35,34,37,33,28,27
+Spain,Western Europe,36,37,34,36,30,28
+Malta,Western Europe,37,30,27,22,22,22
+Kuwait,Middle East and Northern Africa,39,41,39,45,51,48
+El Salvador,Latin America and Caribbean,42,46,45,40,35,34
+Guatemala,Latin America and Caribbean,43,39,29,30,27,29
+Uzbekistan,Central and Eastern Europe,44,49,47,44,41,38
+Slovakia,Central and Eastern Europe,45,45,40,39,38,37
+Japan,Eastern Asia,46,53,51,54,58,62
+South Korea,Eastern Asia,47,57,55,57,54,61
+Ecuador,Latin America and Caribbean,48,51,44,48,50,58
+Bahrain,Middle East and Northern Africa,49,42,41,43,37,40
+Italy,Western Europe,50,50,48,47,36,30
+Bolivia,Latin America and Caribbean,51,59,58,62,61,65
+Moldova,Central and Eastern Europe,52,55,56,67,71,70
+Paraguay,Latin America and Caribbean,53,70,70,64,63,67
+Kazakhstan,Central and Eastern Europe,54,54,60,60,60,50
+Slovenia,Central and Eastern Europe,55,63,62,51,44,33
+Lithuania,Central and Eastern Europe,56,60,52,50,42,41
+Nicaragua,Latin America and Caribbean,57,48,43,41,45,46
+Peru,Latin America and Caribbean,58,64,63,65,65,63
+Belarus,Central and Eastern Europe,59,61,67,73,81,75
+Poland,Central and Eastern Europe,60,57,46,42,40,43
+Malaysia,Southeastern Asia,61,47,42,35,80,82
+Croatia,Central and Eastern Europe,62,74,77,82,75,79
+Libya,Middle East and Northern Africa,63,67,68,70,72,80
+Russia,Central and Eastern Europe,64,56,49,59,68,73
+Jamaica,Latin America and Caribbean,65,73,76,56,56,60
+Cyprus,Western Europe,67,69,65,61,49,45
+Algeria,Middle East and Northern Africa,68,38,53,84,88,100
+Kosovo,Central and Eastern Europe,69,77,78,66,46,35
+Turkmenistan,Central and Eastern Europe,70,65,59,68,87,95
+Mauritius,Sub-Saharan Africa,71,66,64,55,57,49
+Estonia,Central and Eastern Europe,73,72,66,63,55,51
+Indonesia,Southeastern Asia,74,79,81,96,92,84
+Vietnam,Southeastern Asia,75,96,94,95,94,83
+Turkey,Middle East and Northern Africa,76,78,69,74,79,93
+Kyrgyzstan,Central and Eastern Europe,77,85,98,92,86,74
+Nigeria,Sub-Saharan Africa,78,103,95,91,85,115
+Azerbaijan,Central and Eastern Europe,80,81,85,87,90,89
+Pakistan,Southern Asia,81,92,80,75,67,66
+Jordan,Middle East and Northern Africa,82,80,74,90,101,119
+Montenegro,Central and Eastern Europe,82,88,83,81,73,72
+China,Eastern Asia,84,83,79,86,93,94
+Zambia,Sub-Saharan Africa,85,106,116,125,138,141
+Romania,Central and Eastern Europe,86,71,57,52,48,47
+Serbia,Central and Eastern Europe,87,86,73,78,70,64
+Portugal,Western Europe,88,94,89,77,66,59
+Latvia,Central and Eastern Europe,89,68,54,53,53,57
+Philippines,Southeastern Asia,90,82,72,71,69,52
+Morocco,Middle East and Northern Africa,92,90,84,85,89,97
+Albania,Central and Eastern Europe,95,109,109,112,107,105
+Bosnia and Herzegovina,Central and Eastern Europe,96,87,90,93,78,69
+Dominican Republic,Latin America and Caribbean,98,89,86,83,77,68
+Mongolia,Eastern Asia,100,101,100,94,83,81
+Greece,Western Europe,102,99,87,79,82,77
+Lebanon,Middle East and Northern Africa,103,93,88,80,91,111
+Hungary,Central and Eastern Europe,104,91,75,69,62,53
+Honduras,Latin America and Caribbean,105,104,91,72,59,56
+Tajikistan,Central and Eastern Europe,106,100,96,88,74,71
+Tunisia,Middle East and Northern Africa,107,98,102,111,124,128
+Palestinian Territories,Middle East and Northern Africa,108,108,103,104,110,125
+Bangladesh,Southern Asia,109,110,110,115,125,107
+Iran,Middle East and Northern Africa,110,105,108,106,117,118
+Ukraine,Central and Eastern Europe,111,123,132,138,133,123
+Iraq,Middle East and Northern Africa,112,112,117,117,126,110
+South Africa,Sub-Saharan Africa,113,116,101,105,106,109
+Ghana,Sub-Saharan Africa,114,124,131,108,98,91
+Zimbabwe,Sub-Saharan Africa,115,131,138,144,146,151
+Liberia,Sub-Saharan Africa,116,150,148,149,141,124
+India,Southern Asia,117,118,122,133,140,144
+Haiti,Latin America and Caribbean,119,136,145,148,147,142
+Congo (Kinshasa),Sub-Saharan Africa,120,125,126,132,127,131
+Nepal,Southern Asia,121,107,99,101,100,92
+Ethiopia,Sub-Saharan Africa,122,115,119,127,134,136
+Sierra Leone,Sub-Saharan Africa,123,111,106,113,129,139
+Mauritania,Sub-Saharan Africa,124,130,123,126,122,129
+Kenya,Sub-Saharan Africa,125,122,112,124,121,121
+Armenia,Central and Eastern Europe,127,121,121,129,116,116
+Botswana,Sub-Saharan Africa,128,137,142,146,148,147
+Myanmar,Southeastern Asia,129,119,114,130,131,133
+Georgia,Central and Eastern Europe,130,126,125,128,119,117
+Malawi,Sub-Saharan Africa,131,132,136,147,150,145
+Sri Lanka,Southern Asia,132,117,120,116,130,130
+Cameroon,Sub-Saharan Africa,133,114,107,99,96,98
+Bulgaria,Central and Eastern Europe,134,129,105,100,97,96
+Egypt,Middle East and Northern Africa,135,120,104,122,137,138
+Yemen,Middle East and Northern Africa,136,147,146,152,151,146
+Mali,Sub-Saharan Africa,138,135,127,118,128,114
+Congo (Brazzaville),Sub-Saharan Africa,139,127,124,114,103,88
+Uganda,Sub-Saharan Africa,141,145,133,135,136,126
+Senegal,Sub-Saharan Africa,142,128,115,109,111,101
+Gabon,Sub-Saharan Africa,143,134,118,103,104,108
+Niger,Sub-Saharan Africa,144,142,135,134,114,103
+Cambodia,Southeastern Asia,145,140,129,120,109,106
+Tanzania,Sub-Saharan Africa,146,149,153,153,153,148
+Madagascar,Sub-Saharan Africa,147,148,144,143,143,137
+Chad,Sub-Saharan Africa,149,144,137,131,132,127
+Guinea,Sub-Saharan Africa,150,151,149,140,118,102
+Ivory Coast,Sub-Saharan Africa,151,139,128,107,99,85
+Burkina Faso,Sub-Saharan Africa,152,145,134,121,115,112
+Afghanistan,Southern Asia,153,154,141,145,154,153
+Rwanda,Sub-Saharan Africa,154,152,151,151,152,150
+Benin,Sub-Saharan Africa,155,153,143,136,102,86
+Burundi,Sub-Saharan Africa,157,157,154,156,145,140
+Togo,Sub-Saharan Africa,158,155,150,139,139,135
